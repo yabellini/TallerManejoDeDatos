@@ -17,10 +17,12 @@ En esta primera clase se introducen conceptos de Datos:
  Luego de la presentación de conceptos teóricos, se realiza la [siguiente práctica](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/Curso%20Herramientas%20Libres%20Clase%201.pdf) para la cual es necesario tener conexión a internet, si el tiempo de la clase alcanza, se puede agregar esta [práctica extra](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/Practica%20Extra%20-%20Google_NewsLab_PublicDataExplorer.pdf).  La imñagen necesaria para realizar la práctica se puede encontrar [aquí](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/rio-atuel-seco.jpg).
  
 
-## Videos sugeridos
+## Videos sugeridos y que se encuentran en las presentaciones
 
 - [Big Data Agriculture (Inglés)](https://www.youtube.com/watch?v=NLwJrblQHkc&list=PLbPtGt00-Vv80FWMeWmZRrGJMsuLscnTQ)
 - [Big Data - Fundación Sadosky (Español)](https://www.youtube.com/channel/UCtszj_ZFCyKwG4RZ2Vp9rrg/videos)
+- [Open / Shared / Closed: The world of data (Inglés)](https://vimeo.com/125783029)
+- [¿Qué es la ley de acceso a la información pública?](https://www.youtube.com/watch?v=WCnW_pAh2-M)
 
 
 ## Licencia
