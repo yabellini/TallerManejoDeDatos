@@ -28,6 +28,16 @@ En esta primera clase se introducen conceptos de Datos:
 - [Open / Shared / Closed: The world of data (Inglés)](https://vimeo.com/125783029)
 - [¿Qué es la ley de acceso a la información pública?](https://www.youtube.com/watch?v=WCnW_pAh2-M)
 
+## Bibliografía de esta clase
+
+- [Big Data IBM](http://www.ibm.com/software/data/bigd)
+- [BSA Data Study 2015](http://data.bsa.org/)
+- [Informes Técnicos INDEC. Acceso y uso de tecnologías de la información y la comunicación.2018](https://www.indec.gob.ar/uploads/informesdeprensa/mautic_05_18.pdf)
+- [Informes Técnicos INDEC. Acceso y uso de tecnologías de la información y la comunicación.2017](https://www.indec.gob.ar/uploads/informesdeprensa/mautic_09_17.pdf)
+- [Informes técnicos INDEC. Accesos a internet. Cuarto trimestre de 2017]- (https://www.indec.gob.ar/uploads/informesdeprensa/internet_03_18.pdf)
+- [Qué es un byte](www.whatsabyte.com)
+- pcbunn.cithep.edu/presentations/giod_status_sep97/tsld012.htm
+- [Indice de transparencia presupuestaria provincial 2017](http://www.cippec.org/publicacion/indice-de-transparencia-presupuestaria-provincial-edicion-2017/)
 
 ## Licencia
 
