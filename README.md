@@ -50,6 +50,8 @@ El curso tuvo cuatro ediciones como curso extracurricular gratuito en la UNLPam 
 
 ## Clases
 
+Desde cada link se puede acceder al material de cada clase:
+
 1. [Clase 1](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/README.md)
 2. [Clase 2](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase2/README.md)
 3. [Clase 3](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase3/README.md)
@@ -62,4 +64,9 @@ El curso tuvo cuatro ediciones como curso extracurricular gratuito en la UNLPam 
 10. [Clase 10](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase10/README.md)
 
 
+## Licencia
 
+ Todo el trabajo y material de este curso, desarrollado por mi y Juan Caldera se comparte bajo [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+ 
+ All work in this course, development by me and Juan Caldera, is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+ 
