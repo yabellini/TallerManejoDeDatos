@@ -1,7 +1,6 @@
 # Taller de Manejo de Datos con herramientas libres
 
-## Instituto Nacional de Tecnología Agropecuaria
-## Universidad Nacional de La Pampa
+### Instituto Nacional de Tecnología Agropecuaria y Universidad Nacional de La Pampa
 
 ### Autores y docentes: Yanina Bellini Saibene, Juan Marcelo Caldera
 
@@ -24,11 +23,11 @@ Los **objetivos específicos** son, que los asistentes:
 
 ## Ejes temáticos y contenidos
 
-    1 **Fundamentos de los datos**: ¿Qué es un dato?, diferencia con información, como se representa, datos estructurados y no estructurados, bases de datos, datos en la web y sus formatos, datos abiertos y su importancia, diferentes formas de compartir datos, clasificaciones.
-    2 Introducción a la limpieza de datos: formas de organizar y estructurar la información, hojas de cálculo, formato y funciones para la limpieza y organización de datos (Google Sheets, Tableau Public y Open Refine).
-    3 Introducción a la exploración y el entendimiento de los datos: uso de filtros y tablas dinámicas, gráficos de acuerdo al tipo de datos, cuidados y problemas (Google Sheets, Tableau Public). 
-    4 Introducción a los datos espaciales (georreferenciados): los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, obtención de datos espaciales (GPS, Google Earth-Maps, GeoINTA), formatos de datos espaciales, servicios web maping, fuente de información georeferenciada (mapas e imágenes satelitales), generar mapas (Google Earth-Maps, Quantum GIS).
-    5 Introducción a la extracción de datos: fuentes de datos, ley de acceso a la información, scrapping en la web, APIs y Servicios Web, obtener datos de formatos cerrados (PDF, JPG).
+1.**Fundamentos de los datos**: ¿Qué es un dato?, diferencia con información, como se representa, datos estructurados y no estructurados, bases de datos, datos en la web y sus formatos, datos abiertos y su importancia, diferentes formas de compartir datos, clasificaciones.
+2.**Introducción a la limpieza de datos**: formas de organizar y estructurar la información, hojas de cálculo, formato y funciones para la limpieza y organización de datos (Google Sheets, Tableau Public y Open Refine).
+3.**Introducción a la exploración y el entendimiento de los datos**: uso de filtros y tablas dinámicas, gráficos de acuerdo al tipo de datos, cuidados y problemas (Google Sheets, Tableau Public). 
+4.**Introducción a los datos espaciales (georreferenciados)**: los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, obtención de datos espaciales (GPS, Google Earth-Maps, GeoINTA), formatos de datos espaciales, servicios web maping, fuente de información georeferenciada (mapas e imágenes satelitales), generar mapas (Google Earth-Maps, Quantum GIS).
+5.**Introducción a la extracción de datos**: fuentes de datos, ley de acceso a la información, scrapping en la web, APIs y Servicios Web, obtener datos de formatos cerrados (PDF, JPG).
 
 ## Bibliografía:
 
