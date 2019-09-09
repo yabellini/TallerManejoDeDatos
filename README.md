@@ -42,7 +42,9 @@ Los **objetivos específicos** son, que los asistentes:
 9.	[Capacitación y tutoriales de Tableau | Tableau Software]. http://www.tableau.com/es-es/learn/training 
 10.	[Manuales de GeoINTA]. http://geointa.inta.gov.ar/help/ 
 
-## Carga horaria
+## Eje de formación
 
 Se programan 8 encuentros de dos horas cada uno, se pueden hacer encuentros semanales o bien dos encuentros por semana (con uno o dos días entre un encuentro y el otro).  El eje de formación combina la exposición teórica con el análisis y desarrollo de casos reales durante las clases con el objetivo de lograr la máxima asimilación de los conceptos impartidos.  Los alumnos deberán dedicarle al menos dos horas más a la lectura de material o a la preparación de trabajos.
+
+El curso tuvo cuatro ediciones como curso extracurricular gratuito en la UNLPam en los años 2017 y 2018.
 
