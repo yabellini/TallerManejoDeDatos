@@ -32,15 +32,15 @@ Los **objetivos específicos** son, que los asistentes:
 ## Bibliografía:
 
 1.	Fundamentos sobre Tecnología de la Información para las Ciencias Económicas. Editorial de la Universidad Nacional de La Pampa. 4 de diciembre de 2012. ISBN 978-950-863-183-1
-2.	[The Open Data Handbook]. http://opendatahandbook.org/ 
-3.	[Guía de Usuario de QGIS 2.8]. http://docs.qgis.org/2.8/es/docs/user_manual/ 
-4.	[Docs editors Help. Sheets]. https://support.google.com/docs/?hl=en#topic=2811806 
-5.	[Wiki de OpenRefine]. https://github.com/OpenRefine/OpenRefine/wiki 
-6.	[Ayuda de Google Maps]. https://support.google.com/maps/?hl=es#topic=3092425 
-7.	[Google Earth]. http://www.google.com/earth/learn/
-8.	[Google Earth Help Center]. https://support.google.com/earth/?hl=en#topic=4363013 
-9.	[Capacitación y tutoriales de Tableau | Tableau Software]. http://www.tableau.com/es-es/learn/training 
-10.	[Manuales de GeoINTA]. http://geointa.inta.gov.ar/help/ 
+2.	[The Open Data Handbook](http://opendatahandbook.org/) 
+3.	[Guía de Usuario de QGIS 2.8](http://docs.qgis.org/2.8/es/docs/user_manual/) 
+4.	[Docs editors Help. Sheets](https://support.google.com/docs/?hl=en#topic=2811806) 
+5.	[Wiki de OpenRefine](https://github.com/OpenRefine/OpenRefine/wiki) 
+6.	[Ayuda de Google Maps](https://support.google.com/maps/?hl=es#topic=3092425) 
+7.	[Google Earth](http://www.google.com/earth/learn/)
+8.	[Google Earth Help Center](https://support.google.com/earth/?hl=en#topic=4363013) 
+9.	[Capacitación y tutoriales de Tableau | Tableau Software](http://www.tableau.com/es-es/learn/training) 
+10.	[Manuales de GeoINTA](http://geointa.inta.gov.ar/help/) 
 
 ## Eje de formación
 
