@@ -50,7 +50,7 @@ El curso tuvo cuatro ediciones como curso extracurricular gratuito en la UNLPam 
 
 ## Clases
 
-Desde cada link se puede acceder al material de cada clase:
+Desde cada link se puede acceder al material de cada clase, en este [Prezi](https://prezi.com/490kbwfqfjfc/presentacion-del-taller-de-manejo-de-datos/), la presentación del curso:
 
 1. [Clase 1](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/README.md)
 2. [Clase 2](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase2/README.md)
