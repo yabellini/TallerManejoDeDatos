@@ -19,8 +19,8 @@ En esta primera clase se introducen conceptos de Datos:
 
 ## Videos sugeridos
 
-- [Big Data Agriculture (Inglés)]: (https://www.youtube.com/watch?v=NLwJrblQHkc&list=PLbPtGt00-Vv80FWMeWmZRrGJMsuLscnTQ)
-- [Big Data - Fundación Sadosky (Español)]: (https://www.youtube.com/channel/UCtszj_ZFCyKwG4RZ2Vp9rrg/videos)
+- [Big Data Agriculture (Inglés)](https://www.youtube.com/watch?v=NLwJrblQHkc&list=PLbPtGt00-Vv80FWMeWmZRrGJMsuLscnTQ)
+- [Big Data - Fundación Sadosky (Español)](https://www.youtube.com/channel/UCtszj_ZFCyKwG4RZ2Vp9rrg/videos)
 
 
 ## Licencia
