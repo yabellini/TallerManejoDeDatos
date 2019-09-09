@@ -23,11 +23,11 @@ Los **objetivos específicos** son, que los asistentes:
 
 ## Ejes temáticos y contenidos
 
-1.**Fundamentos de los datos**: ¿Qué es un dato?, diferencia con información, como se representa, datos estructurados y no estructurados, bases de datos, datos en la web y sus formatos, datos abiertos y su importancia, diferentes formas de compartir datos, clasificaciones.
-2.**Introducción a la limpieza de datos**: formas de organizar y estructurar la información, hojas de cálculo, formato y funciones para la limpieza y organización de datos (Google Sheets, Tableau Public y Open Refine).
-3.**Introducción a la exploración y el entendimiento de los datos**: uso de filtros y tablas dinámicas, gráficos de acuerdo al tipo de datos, cuidados y problemas (Google Sheets, Tableau Public). 
-4.**Introducción a los datos espaciales (georreferenciados)**: los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, obtención de datos espaciales (GPS, Google Earth-Maps, GeoINTA), formatos de datos espaciales, servicios web maping, fuente de información georeferenciada (mapas e imágenes satelitales), generar mapas (Google Earth-Maps, Quantum GIS).
-5.**Introducción a la extracción de datos**: fuentes de datos, ley de acceso a la información, scrapping en la web, APIs y Servicios Web, obtener datos de formatos cerrados (PDF, JPG).
+1. **Fundamentos de los datos**: ¿Qué es un dato?, diferencia con información, como se representa, datos estructurados y no estructurados, bases de datos, datos en la web y sus formatos, datos abiertos y su importancia, diferentes formas de compartir datos, clasificaciones.
+2. **Introducción a la limpieza de datos**: formas de organizar y estructurar la información, hojas de cálculo, formato y funciones para la limpieza y organización de datos (Google Sheets, Tableau Public y Open Refine).
+3. **Introducción a la exploración y el entendimiento de los datos**: uso de filtros y tablas dinámicas, gráficos de acuerdo al tipo de datos, cuidados y problemas (Google Sheets, Tableau Public). 
+4. **Introducción a los datos espaciales (georreferenciados)**: los datos espaciales o geográficos, concepto de Datum y tipos de coordenadas, obtención de datos espaciales (GPS, Google Earth-Maps, GeoINTA), formatos de datos espaciales, servicios web maping, fuente de información georeferenciada (mapas e imágenes satelitales), generar mapas (Google Earth-Maps, Quantum GIS).
+5. **Introducción a la extracción de datos**: fuentes de datos, ley de acceso a la información, scrapping en la web, APIs y Servicios Web, obtener datos de formatos cerrados (PDF, JPG).
 
 ## Bibliografía:
 
@@ -47,4 +47,19 @@ Los **objetivos específicos** son, que los asistentes:
 Se programan 8 encuentros de dos horas cada uno, se pueden hacer encuentros semanales o bien dos encuentros por semana (con uno o dos días entre un encuentro y el otro).  El eje de formación combina la exposición teórica con el análisis y desarrollo de casos reales durante las clases con el objetivo de lograr la máxima asimilación de los conceptos impartidos.  Los alumnos deberán dedicarle al menos dos horas más a la lectura de material o a la preparación de trabajos.
 
 El curso tuvo cuatro ediciones como curso extracurricular gratuito en la UNLPam en los años 2017 y 2018.
+
+## Clases
+
+1. [Clase 1](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/README.md)
+2. [Clase 2](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase2/README.md)
+3. [Clase 3](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase3/README.md)
+4. [Clase 4](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/README.md)
+5. [Clase 5](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase5/README.md)
+6. [Clase 6](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase6/README.md)
+7. [Clase 7](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase7/README.md)
+8. [Clase 8](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/README.md)
+9. [Clase 9](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase9/README.md)
+10. [Clase 10](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase10/README.md)
+
+
 
