@@ -4,13 +4,17 @@ La clase está programada para que dure dos horas reloj. Sin cortes.
 
 En esta primera clase se introducen conceptos de Datos: 
 
- * dato, 
- * tipos de datos, 
+ * dato, tipos de datos, 
+ * información
+ * cómo se representan, 
  * tipos de variables, 
+ * datos estructurados y no estructurados
  * como se miden los datos, 
  * cantidad de datos que se generan
+ * base de datos
  * datos abiertos, cerrados
- * licencias
+ * licencias,
+ * legislación en Argentina
  
  La presentación está disponible en [Prezi](https://prezi.com/r7rhn3ic5emu/primera-clase-taller-de-manejo-de-datos_videosyoutube/) o en [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/Presentacion_Datos.pdf)
  
