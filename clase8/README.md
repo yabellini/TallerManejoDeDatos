@@ -8,7 +8,8 @@ presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-
 
 * [Data to Viz. Consejos para generar gráficos](https://www.data-to-viz.com/)
 * [Guía para chequear estilos de gráficos](https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf)
-* 
+* [Effectively Communicating Numbers](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)
+
 
 ## Licencia
 
