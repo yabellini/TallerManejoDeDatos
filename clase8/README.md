@@ -1,8 +1,8 @@
-#Taller de Manejo de Datos
+# Taller de Manejo de Datos
 
-Material de la clase 8 del taller de amnejo de Datos
+## Material de la clase 8 del taller de amnejo de Datos
 
-presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/)
+En esta clase se presentan conceptos de visualización, s enceuntran disponibles la presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF]()
 
 # Software y Sitios de Consulta
 
