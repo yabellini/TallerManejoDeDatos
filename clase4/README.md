@@ -10,10 +10,17 @@
   Para realizar las practicas necesitarás tener instalado el siguiente software:
   
   * [Google Earth Pro](https://www.google.com/intl/es/earth/download/gep/agree.html)
-  * [Excel Geocoding Tool](http://excelgeocodingtool.com/)
-  * [Bing Maps](https://www.bingmapsportal.com/)
-  * [The True Size](http://thetruesize.com)
   * [Quantum GIS](www.qgis.org)
+  
+  tienes que descargar esta herramienta:
+  
+  * [Excel Geocoding Tool](http://excelgeocodingtool.com/)
+  
+  Obtener una API Key para esta herramienta:
+  * [Bing Maps](https://www.bingmapsportal.com/)
+  
+  También utilizaremos estos sitios web:
+  * [The True Size](http://thetruesize.com)
   * [GeoINTA](http://www.geointa.inta.gob.ar/)
     
 
