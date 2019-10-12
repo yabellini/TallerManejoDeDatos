@@ -2,7 +2,7 @@
 
 ## Material de la clase 8 del taller de manejo de Datos
 
-En esta clase se presentan conceptos de visualización (presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/VisualizacionDeDatos.pdf)
+En esta clase se presentan conceptos de visualización: cuando utilizar un gráficos, que tipo de gráfico seleccionar de acuerdo a la variable, como generar un gráfico que ayude a comunicar y no distraiga, entre otros conceptos. (presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/VisualizacionDeDatos.pdf)).
 
 # Software y Sitios de Consulta
 
