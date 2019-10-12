@@ -1,6 +1,6 @@
 # Taller de Manejo de Datos
 
-## Material de la clase 8 del taller de amnejo de Datos
+## Material de la clase 8 del taller de manejo de Datos
 
 En esta clase se presentan conceptos de visualización (presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/VisualizacionDeDatos.pdf)
 
