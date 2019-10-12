@@ -4,6 +4,10 @@
 
 ### Autores y docentes: Yanina Bellini Saibene, Juan Marcelo Caldera
 
+#### Ediciones
+
+Este curso fue dictado en cuatro ocasiones como curso extracurricular en la Universidad Nacional de La Pampa.  Los contenidos se van actualizando a medida que se realiza una nueva edición de la capacitación.
+
 ## Fundamentación 
 
 La expresión *“estamos inundados en datos pero sedientes de información”*, caracteriza nuestros tiempos: actualmente existe una gran cantidad de datos disponibles que tiene un inmenso potencial para mejorar la vida de los ciudadanos, pero muchas veces no conocemos las herramientas para manejarlos de manera adecuada o incluso, desconocemos el potencial de la información que tenemos en nuestras manos.  Las organizaciones civiles, públicas, privadas, periodistas, comunicadores, científicos, empresas y todo aquel que trabaje con datos puede beneficiarse del aprender una serie de herramientas libres que le permitan usar los datos de manera efectiva y eficiente.  A su vez, las personas que cuentan con habilidades en el manejo de datos y su comunicación, son cada vez más requeridas en el ámbito laboral.
