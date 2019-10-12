@@ -2,13 +2,13 @@
 
 ## Material de la clase 8 del taller de amnejo de Datos
 
-En esta clase se presentan conceptos de visualización, s enceuntran disponibles la presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF]()
+En esta clase se presentan conceptos de visualización (presentación [Prezi](https://prezi.com/ue3fpsphej2l/cuarta-clase-del-taller-de-manejo-de-datos/) y [PDF](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/VisualizacionDeDatos.pdf)
 
 # Software y Sitios de Consulta
 
 * [Data to Viz. Consejos para generar gráficos](https://www.data-to-viz.com/)
 * [Guía para chequear estilos de gráficos](https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf)
-* [Effectively Communicating Numbers](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)
+* [Effectively Communicating Numbers. Selecting the Best Means and Manner of Display.](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)Stephen Few
 
 
 ## Licencia
