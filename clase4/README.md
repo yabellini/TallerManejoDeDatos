@@ -22,7 +22,9 @@
   También utilizaremos estos sitios web:
   * [The True Size](http://thetruesize.com)
   * [GeoINTA](http://www.geointa.inta.gob.ar/)
-    
+
+  y veremos este video:
+  * [¿Why all world mapas are wrong?](https://www.youtube.com/watch?v=kIID5FDi2JQ#action=share)
 
 ## Licencia
 
