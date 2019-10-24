@@ -59,11 +59,11 @@ Desde cada link se puede acceder al material de cada clase, en este [Prezi](http
 1. [Clase 1](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase1/README.md)
 2. [Clase 2](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase2/README.md)
 3. [Clase 3](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase3/README.md)
-4. [Clase 4](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/README.md)
-5. [Clase 5](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase5/README.md)
+4. [Clase 4](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase4/README.md) - Primera clase para generar mapas
+5. [Clase 5](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase5/README.md) - Segunda clase sobre mapas
 6. [Clase 6](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase6/README.md) - En esta clase se presenta la herramienta Tableau Public
 7. [Clase 7](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase7/README.md) - Segunda parte de Tableau
-8. [Clase 8](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/README.md - En esta clase se presentan conceptos de visualización
+8. [Clase 8](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase8/README.md) - En esta clase se presentan conceptos de visualización
 9. [Clase 9](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase9/README.md)
 10. [Clase 10](https://github.com/yabellini/TallerManejoDeDatos/blob/master/clase10/README.md)
 
