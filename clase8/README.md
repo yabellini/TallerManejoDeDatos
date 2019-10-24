@@ -9,6 +9,7 @@ En esta clase se presentan conceptos de visualización: cuando utilizar un gráf
 * [Data to Viz. Consejos para generar gráficos](https://www.data-to-viz.com/)
 * [Guía para chequear estilos de gráficos](https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf)
 * [Effectively Communicating Numbers. Selecting the Best Means and Manner of Display.](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf)Stephen Few
+* [Hans Rosling: 200 years in 4 minutes - BBC News](https://www.youtube.com/watch?v=Z8t4k0Q8e8Y)
 
 
 ## Licencia
