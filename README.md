@@ -6,7 +6,7 @@
 
 #### Ediciones
 
-Este curso fue dictado en cuatro ocasiones como curso extracurricular en la Universidad Nacional de La Pampa.  Los contenidos se van actualizando a medida que se realiza una nueva edición de la capacitación.
+Este curso fue dictado en cuatro ocasiones (2017-2018) como curso extracurricular en la Universidad Nacional de La Pampa.  Los contenidos se van actualizando a medida que se realiza una nueva edición de la capacitación.
 
 ## Fundamentación 
 
