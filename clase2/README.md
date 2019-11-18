@@ -5,7 +5,7 @@
 Los temas de esta clase son:
 
 * Introducción a la limpieza de datos,
-* formas de orgaznair y estructurar la información
+* formas de organizar y estructurar la información
 * Base de datos relacionales, Tidy Data, hojas de cálculo
 * formato y funciones para la limpieza y organización de los datos
 
